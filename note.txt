@@ -1,0 +1,9 @@
+here am using expressjs framwork it is a nodejs web application framework it will work like that 
+
+express js us used for server side programming 
+
+1 listen the request of the client 
+2 parse the data for js
+3 match response with routes 
+4 send suitable response 
+
